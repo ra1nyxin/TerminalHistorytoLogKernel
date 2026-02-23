@@ -1,0 +1,12 @@
+*.o
+*.ko
+*.mod.c
+*.mod
+*.order
+*.symvers
+.modules.order
+.tch_*
+.modules*
+.depends
+Module.symvers
+modules.order
